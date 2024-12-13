@@ -1,0 +1,9 @@
+torch
+torchvision
+tensorboardX
+pandas
+numpy
+scikit-learn
+tqdm
+torchsample
+torchmetrics>=0.11.0

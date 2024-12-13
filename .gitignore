@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+
+# Project specific
+data/
+models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+src/
+.ipynb_checkpoints/
+
+# Temp files
+.DS_Store
